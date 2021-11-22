@@ -15,6 +15,6 @@ Run "WindowsFormsApp1.exe" and select the appropriate text or excel file.
 
 (To be added in the future)
 
--> Automatic translation from websites like DeepL, or from offline translators support.
+-> Automatic translation from websites like DeepL, or offline translators support.
 
 -> More robust common name replacer.
