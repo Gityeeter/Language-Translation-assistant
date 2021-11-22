@@ -1,0 +1,18 @@
+# Language-Translation-assistant
+A translation utility designed to help language translators and avoid mistakes
+
+What it does?
+Parses Japanese language text files and converts them into japanese for easy translation.
+and also does the vice versa
+
+Requirements
+MS Excel 2010 and up.
+
+Usage
+Run "WindowsFormsApp1.exe" and select the appropriate file.
+
+To be added in the future
+
+-> Automatic translation from websites like DeepL, or from offline translators support.
+
+-> More robust common name replacer.
