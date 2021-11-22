@@ -11,6 +11,7 @@ Requirements
 MS Excel 2010 and up.
 
 Usage
+
 Run "WindowsFormsApp1.exe" and select the appropriate text or excel file.
 
 (To be added in the future)
