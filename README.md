@@ -2,10 +2,12 @@
 A translation utility designed to help language translators and avoid mistakes
 
 What it does?
+
 Parses Japanese language text files and converts them into japanese for easy translation.
 and also does the vice versa.
 
 Requirements
+
 MS Excel 2010 and up.
 
 Usage
