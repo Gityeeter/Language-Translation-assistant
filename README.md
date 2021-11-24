@@ -3,7 +3,7 @@ A translation utility designed to help language translators and avoid mistakes
 
 What it does?
 
-Parses Japanese language text files and converts them into japanese for easy translation.
+Parses Japanese language text files and converts them into Excel format for easily editable translation.
 and also does the vice versa.
 
 Requirements
